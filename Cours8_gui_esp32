@@ -1,0 +1,2 @@
+Ce dossier contient deux codes : le premier correspond à une interface graphique qui affiche la température et l'humidité transmises par l'ESP32, 
+et le second est le code de l'ESP32 qui mesure la température et l'humidité, puis les transmet à l'interface via UART.
